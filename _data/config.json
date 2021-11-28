@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Starter Theme",
+    "title": "Simon - Home",
     "header": {
         "title": "Simon",
         "has_nav": true,
@@ -37,5 +37,6 @@
         ],
         "content": "© Simon. All rights reserved."
     },
-    "domain": "https://rektvodegithubioreal-3d782.netlify.app"
+    "domain": "https://rekt.gq",
+    "favicon": "images/No background.png"
 }
