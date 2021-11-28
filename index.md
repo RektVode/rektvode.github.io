@@ -2,38 +2,7 @@
 title: Home
 sections:
   - title: lorem-ipsum
-    content: >-
-      Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-      efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
-      pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
-      imperdiet venenatis.
-              
-      > Vestibulum ullamcorper risus auctor eleifend consequat.
-
-
-      ![Placeholder
-      Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
-
-
-      In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl
-      elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam
-      malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis.
-      Vestibulum quis elit magna. Vestibulum accumsan blandit consequat.
-      Phasellus quis posuere quam.
-
-
-      Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
-      ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo
-      euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat
-      et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque
-      lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat
-      efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis
-      ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus
-      ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris,
-      viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus,
-      vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna
-      non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac
-      dui. Integer vel convallis justo.
+    content: "Welcome!\n\nYou are at the official website of syemfangamer1 / Simon\n\n> Have a warm welcome!\n\nI am a programmer (if you guys don’t know) and I love to code. Also, I like to play games on Roblox etc.\n\n![](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)\n\nI currently code and I am making a Roblox game.\n\nIf you don’t know, then Roblox games are made using the programming language\_[LUA](https://www.lua.org/), and I am making what is called a game where you can explore, build, play minigames and more!\n\nI’ll leave the link at the\_**bottom of the page**\_when it’s\_**out**.\n\nI’ve done my job here, so yeah.\n\nI’m gonna leave it here. Socials at the bottom right.\n\n# **PEACE! ✌**\n"
     type: content_section
 seo:
   title: Stackbit Starter Theme
