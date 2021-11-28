@@ -5,7 +5,7 @@ sections:
     title: Who am I?
     align: center
   - type: content_section
-    content: "I am syemfangamer1 / Simon.\n\nI am a Programmer / Coder.\n\n**\n\n**\n\n*the\_**MOST IMPORTANT**\_information is located at the\_**HOME PAGE**.*\n"
+    content: "I am syemfangamer1 / Simon.\n\nI am a Programmer / Coder.\n\n\n\n\n\n*the\_**MOST IMPORTANT**\_information is located at the\_**HOME PAGE**.*\n"
   - type: team_section
     title: Our Team
     team:
