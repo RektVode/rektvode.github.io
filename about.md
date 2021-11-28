@@ -6,14 +6,6 @@ sections:
     align: center
   - type: content_section
     content: "I am syemfangamer1 / Simon.\n\nI am a Programmer / Coder.\n\n\n\n\n\n*the\_**MOST IMPORTANT**\_information is located at the\_**HOME PAGE**.*\n"
-  - type: team_section
-    title: Our Team
-    team:
-      - _data/team/miles-tone.yaml
-      - _data/team/dianne-ameter.yaml
-      - _data/team/eleanor-carr.yaml
-      - _data/team/hanson-deck.yaml
-      - _data/team/gordon-norman.yaml
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
