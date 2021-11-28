@@ -6,15 +6,6 @@ sections:
     align: center
   - type: content_section
     content: "I am syemfangamer1 / Simon.\n\nI am a Programmer / Coder.\n\n\n\n\n\n*the\_**MOST IMPORTANT**\_information is located at the\_**HOME PAGE**.*\n"
-  - type: cta_section
-    title: Join the Team
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
-    has_background: true
-    background_color: blue
 seo:
   title: Who We Are
   description: This is the about us page
